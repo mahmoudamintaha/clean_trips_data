@@ -16,3 +16,8 @@ This Python script is designed to create two Excel files named `offer_contents` 
 
 ### Objective
 The primary objective of this script is to meticulously clean and validate data, ensuring utmost accuracy, while also providing users with informative insights regarding any erroneous entries.
+
+### Output
+offer_contents.xlsx
+offers_template.xlsx
+report.xlsx
